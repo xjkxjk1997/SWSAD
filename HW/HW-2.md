@@ -40,4 +40,4 @@
 3. UML绘图工具练习
 
     《UML与模式应用》P228 图17-27  
-    ![avatar](/UMLet-2.png)
+    ![avatar](https://github.com/XXXXIEHF/SWSAD/blob/master/HW/UMLet-2.png)
