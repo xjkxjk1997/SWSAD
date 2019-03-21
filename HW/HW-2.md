@@ -37,6 +37,8 @@
 
 2. 项目管理实践
 
+    ![avatar](https://github.com/XXXXIEHF/SWSAD/blob/master/HW/kanban-2.PNG)
+
 3. UML绘图工具练习
 
     《UML与模式应用》P228 图17-27  
