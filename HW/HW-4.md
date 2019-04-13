@@ -53,10 +53,10 @@
 * 尽可能识别外部系统和服务
 
 携程酒店预订：
-![avartar](./4-1.png)
+![avartar](https://github.com/XXXXIEHF/SWSAD/blob/master/HW/4-1.PNG)
 
 猫眼票务系统：
-![avartar](./4-2.png)
+![avartar](https://github.com/XXXXIEHF/SWSAD/blob/master/HW/4-2.PNG)
 
 然后，回答下列问题：
 
